@@ -1,0 +1,44 @@
+{
+    "mainoption": {
+        "titleResume": "interativo vr",
+        "title": "o líder em vr interativo" ,
+        "content": "Fundada em 2011, a Loopstudios vem produzindo realidade virtual de classe mundial projetos para algumas das melhores empresas do mundo. Nosso premiado criações transformaram negócios por meio de experiências digitais que unem à sua marca."
+    },
+
+    "options": [
+        
+        {
+            "titleResume": "Terra profunda",
+            "imgDesktop": "../../assets/images/desktop/image-deep-earth.jpg"
+        },
+        {
+            "titleResume": "Noite arcade",
+            "imgDesktop": "../../assets/images/desktop/image-deep-earth.jpg"
+
+        },
+        {
+            "titleResume": "Time futebol vr",
+            "imgDesktop": "../../assets/images/desktop/image-deep-earth.jpg"
+        },
+        {
+            "titleResume": "a grade",
+            "imgDesktop": "../../assets/images/desktop/image-deep-earth.jpg"
+        },
+        {
+            "titleResume": "lá de cima vr",
+            "imgDesktop": "../../assets/images/desktop/image-deep-earth.jpg"
+        },
+        {
+            "titleResume": "aurora boreal",
+            "imgDesktop": "../../assets/images/desktop/image-deep-earth.jpg"
+        },
+        {
+            "titleResume": "a curiosidade",
+            "imgDesktop": "../../assets/images/desktop/image-deep-earth.jpg"
+        },
+        {
+            "titleResume": "torná-lo olho de peixe",
+            "imgDesktop": "../../assets/images/desktop/image-deep-earth.jpg"
+        } 
+    ]
+}

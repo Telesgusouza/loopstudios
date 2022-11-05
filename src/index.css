@@ -1,13 +1,37 @@
-body {
+/* 
+  fonts
+
+  font-family: "Alata", sans-serif;
+- Weight: 400
+
+  font-family: "Josefin Sans", sans-serif;
+- Weight: 300
+*/
+
+body, html {
+  min-height: 100vh;
+  /* width: 80%; */
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  /* overflow: hidden; */
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  /* width: 100%; */
+  /* overflow: hidden; */
 }
+
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Alata", sans-serif;
+}
+
+.center {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+
+} 
